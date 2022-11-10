@@ -3,7 +3,7 @@ import React from 'react';
 const СhatPage = () => {
     return (
         <div>
-            Hello
+            gfdgdgdgfd
         </div>
     );
 };
